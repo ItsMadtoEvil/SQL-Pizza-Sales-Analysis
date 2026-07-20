@@ -75,7 +75,7 @@ The dataset contains:
 
 ## Dashboard
 https://docs.google.com/spreadsheets/d/18E8jKQqb9EArORji4jYEzdiOilX5ZTLL/edit?usp=sharing&ouid=104091882476131779697&rtpof=true&sd=true
-Power BI dashboard includes:
+MS Exccel dashboard includes:
 <img width="566" height="617" alt="image" src="https://github.com/user-attachments/assets/4dd60a66-b94b-483b-b618-d63b892a641d" />
 
 - Revenue KPI
